@@ -3,7 +3,7 @@
 I've been learning through a course, basic front-end projects. This is one of them! 
 
 I used javaScript in React, and ran it on Vite.
-Integration of an API to fetch weather data.
+Integration of an API to fetch weather data using Postman.
 Basic CSS with no external libraries.
 
 # Lacking...
